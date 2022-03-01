@@ -9,10 +9,8 @@ Flashcard App - Julian (Lab 1)
 ### App Description
 This is a simple flashcard app with a question, and displays the answer when tapped on. 
 
-### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="https://github.com/J-467/Flashcards/blob/main/flashcard%20demo.mov" width=200><br>
+<img src="https://github.com/J-467/Flashcards/blob/main/flashcard%20demo%20gif.gif" width=200><br>
 
 ## Required
 - [x] Create New Project in Xcode
