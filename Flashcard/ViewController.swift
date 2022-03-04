@@ -9,6 +9,7 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    @IBOutlet weak var backText1: UILabel!
     @IBOutlet weak var flashText1: UILabel!
     @IBOutlet weak var randombox: UIView!
     @IBOutlet weak var randomText: UILabel!
@@ -16,10 +17,11 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
+    
 
     @IBAction func onTap(_ sender: Any) {
-        flashText1.text = "Usain Bolt"
-        randombox.backgroundColor = .green
+        flashText1.isHidden = true
     }
+    
     
 }
