@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B982666427DD2289008EABA4 /* SecondScreenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B982666327DD2289008EABA4 /* SecondScreenViewController.swift */; };
+		B982666627DD2B14008EABA4 /* CreationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B982666527DD2B14008EABA4 /* CreationViewController.swift */; };
 		B9D8889427CAAA1400A5EADB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9D8889327CAAA1400A5EADB /* AppDelegate.swift */; };
 		B9D8889627CAAA1400A5EADB /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9D8889527CAAA1400A5EADB /* SceneDelegate.swift */; };
 		B9D8889827CAAA1400A5EADB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9D8889727CAAA1400A5EADB /* ViewController.swift */; };
@@ -36,6 +38,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		B982666327DD2289008EABA4 /* SecondScreenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondScreenViewController.swift; sourceTree = "<group>"; };
+		B982666527DD2B14008EABA4 /* CreationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreationViewController.swift; sourceTree = "<group>"; };
 		B9D8889027CAAA1400A5EADB /* Flashcard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Flashcard.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B9D8889327CAAA1400A5EADB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B9D8889527CAAA1400A5EADB /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -79,6 +83,7 @@
 		B9D8888727CAAA1400A5EADB = {
 			isa = PBXGroup;
 			children = (
+				B982666527DD2B14008EABA4 /* CreationViewController.swift */,
 				B9D8889227CAAA1400A5EADB /* Flashcard */,
 				B9D888A927CAAA1500A5EADB /* FlashcardTests */,
 				B9D888B327CAAA1500A5EADB /* FlashcardUITests */,
@@ -101,6 +106,7 @@
 			children = (
 				B9D8889327CAAA1400A5EADB /* AppDelegate.swift */,
 				B9D8889527CAAA1400A5EADB /* SceneDelegate.swift */,
+				B982666327DD2289008EABA4 /* SecondScreenViewController.swift */,
 				B9D8889727CAAA1400A5EADB /* ViewController.swift */,
 				B9D8889927CAAA1400A5EADB /* Main.storyboard */,
 				B9D8889C27CAAA1500A5EADB /* Assets.xcassets */,
@@ -258,6 +264,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B982666627DD2B14008EABA4 /* CreationViewController.swift in Sources */,
+				B982666427DD2289008EABA4 /* SecondScreenViewController.swift in Sources */,
 				B9D8889827CAAA1400A5EADB /* ViewController.swift in Sources */,
 				B9D8889427CAAA1400A5EADB /* AppDelegate.swift in Sources */,
 				B9D8889627CAAA1400A5EADB /* SceneDelegate.swift in Sources */,
