@@ -83,7 +83,6 @@
 		B9D8888727CAAA1400A5EADB = {
 			isa = PBXGroup;
 			children = (
-				B982666527DD2B14008EABA4 /* CreationViewController.swift */,
 				B9D8889227CAAA1400A5EADB /* Flashcard */,
 				B9D888A927CAAA1500A5EADB /* FlashcardTests */,
 				B9D888B327CAAA1500A5EADB /* FlashcardUITests */,
@@ -107,6 +106,7 @@
 				B9D8889327CAAA1400A5EADB /* AppDelegate.swift */,
 				B9D8889527CAAA1400A5EADB /* SceneDelegate.swift */,
 				B982666327DD2289008EABA4 /* SecondScreenViewController.swift */,
+				B982666527DD2B14008EABA4 /* CreationViewController.swift */,
 				B9D8889727CAAA1400A5EADB /* ViewController.swift */,
 				B9D8889927CAAA1400A5EADB /* Main.storyboard */,
 				B9D8889C27CAAA1500A5EADB /* Assets.xcassets */,
