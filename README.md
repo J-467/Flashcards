@@ -2,8 +2,8 @@
 
 ## Lab 2
 
-### App Description
-`TODO://` Added a feature where the user can add a new flashcard
+### App Description 
+Added a feature where the user can add a new flashcard
 
 ### App Walk-though
 
