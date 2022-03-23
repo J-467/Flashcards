@@ -57,6 +57,15 @@
                                                     <outletCollection property="gestureRecognizers" destination="Bc2-bQ-0eN" appends="YES" id="u0u-rA-Fkc"/>
                                                 </connections>
                                             </label>
+                                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="qSZ-vC-t0d">
+                                                <rect key="frame" x="232" y="132" width="47" height="31"/>
+                                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                                <state key="normal" title="Button"/>
+                                                <buttonConfiguration key="configuration" style="plain" title="✏️"/>
+                                                <connections>
+                                                    <segue destination="tyB-59-4vS" kind="show" identifier="EditSegue" id="2fW-QJ-gD2"/>
+                                                </connections>
+                                            </button>
                                         </subviews>
                                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                     </view>
@@ -177,6 +186,7 @@
             <objects>
                 <navigationController automaticallyAdjustsScrollViewInsets="NO" id="tyB-59-4vS" sceneMemberID="viewController">
                     <toolbarItems/>
+                    <navigationItem key="navigationItem" id="eju-9J-amt"/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="pz3-mA-Vf8">
                         <rect key="frame" x="0.0" y="0.0" width="390" height="56"/>
                         <autoresizingMask key="autoresizingMask"/>
@@ -191,6 +201,9 @@
             <point key="canvasLocation" x="361.53846153846155" y="88.862559241706151"/>
         </scene>
     </scenes>
+    <inferredMetricsTieBreakers>
+        <segue reference="2fW-QJ-gD2"/>
+    </inferredMetricsTieBreakers>
     <resources>
         <systemColor name="opaqueSeparatorColor">
             <color red="0.77647058823529413" green="0.77647058823529413" blue="0.78431372549019607" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
