@@ -90,20 +90,55 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="H9B-fA-wQI">
-                                <rect key="frame" x="168" y="696" width="54" height="58"/>
+                                <rect key="frame" x="162" y="693" width="66" height="67"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="plain">
                                     <attributedString key="attributedTitle">
                                         <fragment content="+">
                                             <attributes>
-                                                <font key="NSFont" size="40" name="Helvetica"/>
+                                                <font key="NSFont" size="61" name="Helvetica"/>
                                             </attributes>
                                         </fragment>
                                     </attributedString>
                                 </buttonConfiguration>
                                 <connections>
                                     <segue destination="tyB-59-4vS" kind="presentation" id="YMw-98-opP"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Iaq-Ew-cbf">
+                                <rect key="frame" x="16" y="711" width="138" height="49"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Button"/>
+                                <buttonConfiguration key="configuration" style="plain">
+                                    <attributedString key="attributedTitle">
+                                        <fragment content="Prev">
+                                            <attributes>
+                                                <font key="NSFont" size="32" name="Helvetica"/>
+                                                <paragraphStyle key="NSParagraphStyle" alignment="natural" lineBreakMode="wordWrapping" baseWritingDirection="natural" tighteningFactorForTruncation="0.0"/>
+                                            </attributes>
+                                        </fragment>
+                                    </attributedString>
+                                </buttonConfiguration>
+                                <connections>
+                                    <action selector="didOnTapPrev:" destination="BYZ-38-t0r" eventType="touchUpInside" id="FeP-b4-KrI"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="bZ5-ez-WDf">
+                                <rect key="frame" x="248" y="709" width="103" height="49"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Button"/>
+                                <buttonConfiguration key="configuration" style="plain">
+                                    <attributedString key="attributedTitle">
+                                        <fragment content="Next">
+                                            <attributes>
+                                                <font key="NSFont" size="32" name="Helvetica"/>
+                                            </attributes>
+                                        </fragment>
+                                    </attributedString>
+                                </buttonConfiguration>
+                                <connections>
+                                    <action selector="didOnTapNext:" destination="BYZ-38-t0r" eventType="touchUpInside" id="0qA-xQ-KZW"/>
                                 </connections>
                             </button>
                         </subviews>
@@ -114,6 +149,8 @@
                     <connections>
                         <outlet property="backText1" destination="dih-kn-kWH" id="eNR-bB-Urq"/>
                         <outlet property="flashText1" destination="Eh5-aa-ljH" id="snN-Wc-skF"/>
+                        <outlet property="nextButton" destination="bZ5-ez-WDf" id="4r9-sY-5dq"/>
+                        <outlet property="prevButton" destination="Iaq-Ew-cbf" id="uKn-sD-0S3"/>
                         <outlet property="randomText" destination="Eh5-aa-ljH" id="NYp-tk-biG"/>
                         <outlet property="randombox" destination="tjJ-QC-cKf" id="ZbZ-I1-e9n"/>
                     </connections>

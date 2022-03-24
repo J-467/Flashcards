@@ -1,3 +1,25 @@
+
+## Lab 3
+
+### App Description
+Implemented a feature where a user can add multiple flashcards. These flashcards will be stored locally, and be added whenever the user opens the app.
+
+### App Walk-though
+
+<img src="YOUR_GIF_URL_HERE" width=200><br>
+
+`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
+
+## Required
+- [x] User can browse through multiple flashcards
+- [x] User can re-open the app and see previously created flashcards
+- [ ] Push code to GitHub
+## Optional
+- [ ] User can delete a flashcard
+- [ ] User can edit existing flashcard
+- [ ] User can store multiple choice questions
+
+
 # Flashcards
 
 ## Lab 2
