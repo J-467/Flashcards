@@ -1,3 +1,4 @@
+# Flashcards
 
 ## Lab 3
 
@@ -17,9 +18,6 @@ Implemented a feature where a user can add multiple flashcards. These flashcards
 - [ ] User can delete a flashcard
 - [ ] User can edit existing flashcard
 - [ ] User can store multiple choice questions
-
-
-# Flashcards
 
 ## Lab 2
 
