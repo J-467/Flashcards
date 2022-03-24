@@ -6,14 +6,13 @@ Implemented a feature where a user can add multiple flashcards. These flashcards
 
 ### App Walk-though
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="https://github.com/J-467/Flashcards/blob/main/Lab%203_gif.gif" width=200><br>
 
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
 ## Required
 - [x] User can browse through multiple flashcards
 - [x] User can re-open the app and see previously created flashcards
-- [ ] Push code to GitHub
+- [x] Push code to GitHub
 ## Optional
 - [ ] User can delete a flashcard
 - [ ] User can edit existing flashcard
