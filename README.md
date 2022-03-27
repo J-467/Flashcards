@@ -16,7 +16,7 @@ Implemented a feature where a user can add multiple flashcards. These flashcards
 - [x] Push code to GitHub
 ## Optional
 - [ ] User can delete a flashcard
-- [ ] User can edit existing flashcard
+- [x] User can edit existing flashcard
 - [ ] User can store multiple choice questions
 
 ## Lab 2

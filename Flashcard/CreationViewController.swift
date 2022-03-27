@@ -42,7 +42,11 @@ class CreationViewController: UIViewController {
         }
         else
         {
-            flashcardsController.updateFlashcard(question: questionText!, answer: answerText!)
+            var isExisting = false
+            if initialQuestion != nil {
+                isExisting = true
+            }
+            flashcardsController.updateFlashcard(question: questionText!, answer: answerText!,isExisting: isExisting)
         }
         
     }

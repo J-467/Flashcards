@@ -38,7 +38,7 @@ class ViewController: UIViewController {
         
         //show this if there are no flashcards in the database
         if flashcards.count == 0{
-            updateFlashcard(question: "Who is the best sprinter of all time", answer: "Bolt, Usain")
+            updateFlashcard(question: "Who is the best sprinter of all time", answer: "Bolt, Usain",isExisting: false)
         }
         else{
             updateLabels()
@@ -85,21 +85,27 @@ class ViewController: UIViewController {
     
     
     // This functions updates the current flash card adds it to the db
-    func updateFlashcard(question: String, answer: String) {
+    func updateFlashcard(question: String, answer: String, isExisting: Bool) {
         let flashcard = Flashcard(question: question, answer: answer)
         flashText1.text = flashcard.question
         backText1.text = flashcard.answer
         
         // Add the flashcard to the array
-        flashcards.append(flashcard)
+        if isExisting{
+            flashcards[currentIndex] = flashcard
+        }
+        else{
+            flashcards.append(flashcard)
+            
+            //print these for debugging sake
+            print("Added a new flashcard")
+            print("We now have \(flashcards.count) flashcards")
+            
+            
+            currentIndex = flashcards.count - 1
+            print("Our current index is \(currentIndex)")
+        }
         
-        //print these for debugging sake
-        print("Added a new flashcard")
-        print("We now have \(flashcards.count) flashcards")
-        
-        
-        currentIndex = flashcards.count - 1
-        print("Our current index is \(currentIndex)")
         
         updateNextPrevButtons()
         updateLabels()
