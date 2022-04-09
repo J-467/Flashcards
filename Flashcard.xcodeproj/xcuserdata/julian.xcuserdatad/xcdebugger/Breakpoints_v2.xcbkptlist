@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E8505227-13A5-41AD-B565-E5D1C09E9F7D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B3961D2A-E940-4311-90BE-3420E3173218"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Flashcard/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "onTap(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "66860E43-F7E9-49FA-8C7E-EA6F42D40FC0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Flashcard/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "66860E43-F7E9-49FA-8C7E-EA6F42D40FC0 - 56ee9a88272a4f6c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flashcard.ViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Flashcard.ViewController"
+                  moduleName = "Flashcard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/julian/Documents/iOS%20apps/Flashcard/Flashcard/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "66860E43-F7E9-49FA-8C7E-EA6F42D40FC0 - b8c778d66e0bb88f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flashcard.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Flashcard.ViewController"
+                  moduleName = "Flashcard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/julian/Documents/iOS%20apps/Flashcard/Flashcard/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "66860E43-F7E9-49FA-8C7E-EA6F42D40FC0 - 45f93548d685129"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flashcard.ViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Flashcard.ViewController&gt;"
+                  moduleName = "Flashcard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/julian/Documents/iOS%20apps/Flashcard/Flashcard/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "66860E43-F7E9-49FA-8C7E-EA6F42D40FC0 - a6da3e949e0a8c43"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flashcard.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Flashcard.ViewController&gt;"
+                  moduleName = "Flashcard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/julian/Documents/iOS%20apps/Flashcard/Flashcard/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "66860E43-F7E9-49FA-8C7E-EA6F42D40FC0 - d25184f72dafc3c9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flashcard.ViewController.__deallocating_deinit"
+                  moduleName = "Flashcard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/julian/Documents/iOS%20apps/Flashcard/Flashcard/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "009CAE39-BC10-45BF-B1FE-ECE322388EFC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Flashcard/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "009CAE39-BC10-45BF-B1FE-ECE322388EFC - 2bd4efe124ebab2b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flashcard.ViewController.backText1.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Flashcard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/julian/Documents/iOS%20apps/Flashcard/Flashcard/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "009CAE39-BC10-45BF-B1FE-ECE322388EFC - 51125cbbfe235d3f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flashcard.ViewController.backText1.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Flashcard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/julian/Documents/iOS%20apps/Flashcard/Flashcard/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "009CAE39-BC10-45BF-B1FE-ECE322388EFC - 79d28514db9ed732"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flashcard.ViewController.backText1.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Flashcard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/julian/Documents/iOS%20apps/Flashcard/Flashcard/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "009CAE39-BC10-45BF-B1FE-ECE322388EFC - 1079270ea3845555"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flashcard.ViewController.backText1.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Flashcard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/julian/Documents/iOS%20apps/Flashcard/Flashcard/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "009CAE39-BC10-45BF-B1FE-ECE322388EFC - b8c778d66e0bb88f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flashcard.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Flashcard.ViewController"
+                  moduleName = "Flashcard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/julian/Documents/iOS%20apps/Flashcard/Flashcard/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "009CAE39-BC10-45BF-B1FE-ECE322388EFC - a6da3e949e0a8c43"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flashcard.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Flashcard.ViewController&gt;"
+                  moduleName = "Flashcard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/julian/Documents/iOS%20apps/Flashcard/Flashcard/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
