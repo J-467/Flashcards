@@ -31,7 +31,7 @@ Implemented a feature where a user can add multiple flashcards. These flashcards
 
 ### App Walk-though
 
-<img src="https://github.com/J-467/Flashcards/blob/main/Lab%203_gif.gif" width=200><br>
+<img src="https://github.com/J-467/Flashcards/blob/main/Lab_3_gif.gif" width=200><br>
 
 
 ## Required
