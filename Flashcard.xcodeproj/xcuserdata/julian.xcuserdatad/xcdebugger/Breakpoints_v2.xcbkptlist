@@ -14,10 +14,10 @@
             filePath = "Flashcard/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "64"
-            endingLineNumber = "64"
-            landmarkName = "onTap(_:)"
-            landmarkType = "7">
+            startingLineNumber = "97"
+            endingLineNumber = "97"
+            landmarkName = "ViewController"
+            landmarkType = "3">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -129,11 +129,11 @@
             landmarkType = "3">
             <Locations>
                <Location
-                  uuid = "009CAE39-BC10-45BF-B1FE-ECE322388EFC - 2bd4efe124ebab2b"
+                  uuid = "009CAE39-BC10-45BF-B1FE-ECE322388EFC - 27fffb872a9ba1c3"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "Flashcard.ViewController.backText1.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  symbolName = "Flashcard.ViewController.current_card.getter : Swift.Optional&lt;__C.UILabel&gt;"
                   moduleName = "Flashcard"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/julian/Documents/iOS%20apps/Flashcard/Flashcard/ViewController.swift"
@@ -144,11 +144,11 @@
                   offsetFromSymbolStart = "88">
                </Location>
                <Location
-                  uuid = "009CAE39-BC10-45BF-B1FE-ECE322388EFC - 51125cbbfe235d3f"
+                  uuid = "009CAE39-BC10-45BF-B1FE-ECE322388EFC - e8f41975a86d7dd7"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "Flashcard.ViewController.backText1.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  symbolName = "Flashcard.ViewController.current_card.setter : Swift.Optional&lt;__C.UILabel&gt;"
                   moduleName = "Flashcard"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/julian/Documents/iOS%20apps/Flashcard/Flashcard/ViewController.swift"
@@ -159,11 +159,11 @@
                   offsetFromSymbolStart = "108">
                </Location>
                <Location
-                  uuid = "009CAE39-BC10-45BF-B1FE-ECE322388EFC - 79d28514db9ed732"
+                  uuid = "009CAE39-BC10-45BF-B1FE-ECE322388EFC - 5679b73cc7f53b5a"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "Flashcard.ViewController.backText1.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  symbolName = "Flashcard.ViewController.current_card.modify : Swift.Optional&lt;__C.UILabel&gt;"
                   moduleName = "Flashcard"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/julian/Documents/iOS%20apps/Flashcard/Flashcard/ViewController.swift"
@@ -174,11 +174,11 @@
                   offsetFromSymbolStart = "48">
                </Location>
                <Location
-                  uuid = "009CAE39-BC10-45BF-B1FE-ECE322388EFC - 1079270ea3845555"
+                  uuid = "009CAE39-BC10-45BF-B1FE-ECE322388EFC - c5af76dfa58cca6"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "Flashcard.ViewController.backText1.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  symbolName = "Flashcard.ViewController.current_card.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
                   moduleName = "Flashcard"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/julian/Documents/iOS%20apps/Flashcard/Flashcard/ViewController.swift"
@@ -201,7 +201,7 @@
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "12"
                   endingLineNumber = "12"
-                  offsetFromSymbolStart = "96">
+                  offsetFromSymbolStart = "168">
                </Location>
                <Location
                   uuid = "009CAE39-BC10-45BF-B1FE-ECE322388EFC - a6da3e949e0a8c43"
@@ -216,7 +216,7 @@
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "12"
                   endingLineNumber = "12"
-                  offsetFromSymbolStart = "72">
+                  offsetFromSymbolStart = "144">
                </Location>
             </Locations>
          </BreakpointContent>

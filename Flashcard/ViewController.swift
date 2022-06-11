@@ -37,6 +37,21 @@ class ViewController: UIViewController {
         //Read saved flashcards on loading
         readSavedFlashcards()
         
+        // This modifies the appearance of the flashcard
+        
+        card.layer.cornerRadius = 22
+        flashText1.layer.cornerRadius = 22
+        backText1.layer.cornerRadius  = 22
+        
+        card.layer.shadowRadius = 15
+        card.layer.shadowOpacity = 0.4
+        
+        flashText1.clipsToBounds = true
+        backText1.clipsToBounds = true
+        
+        
+        // This modifies the appearance of the flashcard
+ 
         //show this if there are no flashcards in the database
         if flashcards.count == 0{
             updateFlashcard(question: "Who is the best sprinter of all time", answer: "Bolt, Usain",isExisting: false)
