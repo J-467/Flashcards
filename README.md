@@ -1,6 +1,6 @@
-Flashcards
+# Flashcards
 
-App Description
+## App Description
 This is a flashcard app that allows users to create new flashcards to study for exams or anything at all. Users can add, edit and store as many flashcards they prefer.                                                                                                                         
 
 ### App Walk-though
