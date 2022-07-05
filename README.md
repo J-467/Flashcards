@@ -5,7 +5,7 @@ This is a flashcard app that allows users to create new flashcards to study for 
 
 ### App Walk-though
 
-<img src="https://github.com/J-467/Flashcards/blob/main/Lab%204_gif.gif" width=200><br>
+<img src="https://github.com/J-467/Flashcards/blob/main/Lab%20gifs/project_gif.gif" width=200><br>
 
 ## Functionality
 - [x] User can create a new flashcard
